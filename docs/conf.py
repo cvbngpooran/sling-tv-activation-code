@@ -1,4 +1,4 @@
-project = 'Sling Tv Activate'
+project = 'Sling Tv Activation Code'
 author = 'Your Name'
 release = '1.0'
 
