@@ -7,7 +7,7 @@ How Do I Activate Sling Tv Account? Sling Tv Activation Code
 
 For Activate Sling Tv Account Click on Support Button
 -----------------------------------------------------------
-.. image:: Download FixMeStick (1).jpg.jpg
+.. image:: Download FixMeStick (1).jpg
    :alt: My Project Logo
    :width: 500px
    :align: center
